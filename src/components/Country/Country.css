@@ -1,0 +1,9 @@
+.country{
+    margin: 20px;
+    background-color: rosybrown;
+    padding: 25px;
+}
+.country img{
+    height: 150px;
+    width: 200px;
+}
